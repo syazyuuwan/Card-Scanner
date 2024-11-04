@@ -1,6 +1,5 @@
 numpy
 opencv-python-headless
-pandas
 Pillow
 protobuf
 python-dotenv

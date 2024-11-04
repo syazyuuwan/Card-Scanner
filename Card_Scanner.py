@@ -1,9 +1,9 @@
 # %%
-import os
+#import os
 import cv2
 import PIL.Image
 import numpy as np
-import pandas as pd
+#import pandas as pd
 import streamlit as st
 from csv import writer
 from dotenv import load_dotenv
