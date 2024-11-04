@@ -3,5 +3,6 @@ opencv-python-headless
 Pillow
 protobuf
 python-dotenv
+streamlit
 streamlit-nightly
 google-generativeai
